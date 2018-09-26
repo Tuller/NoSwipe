@@ -1,0 +1,5 @@
+## Interface: 80000
+## Title: NoSwipe
+## Notes: Completely hides cooldown swipes
+## Author: Tuller
+main.lua
